@@ -1,6 +1,7 @@
 # Script-CrackFacebook
 pkg update && pkg upgrade 
-pkg install python 
+pip install python
+pkg install rich
 pkg install git
 pip install bs4
 pip install mechanize
