@@ -20,3 +20,7 @@ cd Script-CrackFacebook
 ls
 
 python pajarxc.py
+
+
+
+# SCRIPT INI DI BUAT OLEH FAJAR DEV
